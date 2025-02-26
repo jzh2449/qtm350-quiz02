@@ -1,0 +1,23 @@
+quarto reproject:
+  type: website
+  output-dir: docs  # Store rendered files in docs folder
+
+website:
+  title: "Gapminder Analysis"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Life Expectancy and GDP per Capita"
+        href: life-gdp.qmd
+      - text: "Life Expectancy and Population"
+        href: life-population.qmd
+      - text: "Country Analysis"
+        href: country.qmd
+  page-footer: "© 2025 jzh2449"
+
+format:
+  html:
+    theme: cosmo  # You can change this to another Quarto theme
+    toc: true
+

@@ -1,0 +1,9 @@
+---
+title: "Life Expectancy and Population"
+format: html
+---
+
+## Introduction
+This page analyzes the relationship between life expectancy and population using the Gapminder dataset.
+
+More content coming soon.

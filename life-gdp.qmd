@@ -1,0 +1,9 @@
+---
+title: "Life Expectancy and GDP per Capita"
+format: html
+---
+
+## Introduction
+This page analyzes the relationship between life expectancy and GDP per capita using the Gapminder dataset.
+
+More content coming soon.

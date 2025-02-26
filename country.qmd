@@ -1,0 +1,9 @@
+---
+title: "Country Analysis"
+format: html
+---
+
+## Introduction
+This page analyzes changes in life expectancy, GDP per capita, and population for a specific country over time.
+
+More content coming soon.
